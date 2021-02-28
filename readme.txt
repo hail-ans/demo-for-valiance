@@ -8,10 +8,7 @@ File Structure
     
     app/views.py: This file contains all the routes for our application. This will tell Flask what to display on which path.
     
-    app/models.py: This is where the models are defined. A model is a representation of a database table in code. However, because we will not be using a database in this tutorial, we won't be needing this file.
-
-Some projects have more modules (for example, an app/views directory with many views files in it), but this'll do for now. Go ahead and create these files, and delete hello_world.py since we won't be needing it anymore:
-
+    app/models.py: This is where the models are defined. A model is a representation of a database table in code. 
 
 Set Environment variables in Windows
 $env:FLASK_CONFIG="development/production"
