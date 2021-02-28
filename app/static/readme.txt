@@ -1,0 +1,1 @@
+/app/static: This is where static files such as CSS and JavaScript files as well as images usually go. However, we won't be needing this folder for this tutorial since we won't be using any static files.

@@ -1,0 +1,1 @@
+/app/templates: This is where our HTML files will go.
